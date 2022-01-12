@@ -1,0 +1,8 @@
+.mailing__fon {
+  position: relative;
+  display: flex;
+  width: 1170px;
+  height: 435px;
+  background: #10105c;
+  border-radius: 10px;
+}

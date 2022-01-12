@@ -1,0 +1,15 @@
+.footer__list-link {
+  font-weight: 500;
+  line-height: 24px;
+  margin-bottom: 15px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer__list-link:nth-child(1) {
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.footer__list-link:last-child {
+  margin-bottom: 0;
+}

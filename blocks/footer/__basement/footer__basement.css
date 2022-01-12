@@ -1,0 +1,7 @@
+.footer__basement {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  width: 1170px;
+  margin-bottom: 100px;
+}

@@ -1,0 +1,8 @@
+.about-us__fon {
+  background-image: url('../../../images/about-us/about-us_fon.png');
+  position: absolute;
+  top: -51px;
+  left: -51px;
+  width: 326px;
+  height: 358px;
+}

@@ -1,0 +1,13 @@
+.mailing__subscribe {
+  position: absolute;
+  text-decoration: none;
+  padding: 22px 25px;
+  border-radius: 0px 10px 10px 0px;
+
+  color: #ffffff;
+  background: #1a73e8;
+}
+
+.mailing__subscribe:hover {
+  opacity: 0.5;
+}

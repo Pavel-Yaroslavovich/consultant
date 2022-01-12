@@ -1,0 +1,12 @@
+.about-us__simpson-profession {
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: 0;
+  margin-bottom: 40px;
+  position: absolute;
+  top: 488px;
+  left: 166px;
+  right: 165px;
+
+  color: rgba(20, 20, 43, 0.5);
+}

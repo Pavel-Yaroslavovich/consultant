@@ -1,0 +1,13 @@
+.statistics__number {
+  font-family: 'Circular Std';
+  font-size: 75px;
+  line-height: 100px;
+  margin-bottom: 8px;
+
+  color: #14142B;
+}
+
+.statistics__number::after {
+  content: url('../../../images/+.svg');
+  margin-left: 10px;
+}

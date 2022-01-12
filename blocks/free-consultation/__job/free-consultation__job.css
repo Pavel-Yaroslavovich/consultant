@@ -1,0 +1,14 @@
+.free-consultation__job {
+  display: inline-block;
+  text-decoration: none;
+  padding: 15px 35px;
+  margin-left: 30px;
+
+  color: rgba(26, 115, 232, 1);
+  background: rgba(26, 115, 232, 0.1);
+  border-radius: 5px;
+}
+
+.free-consultation__job:hover {
+  opacity: 0.5;
+}

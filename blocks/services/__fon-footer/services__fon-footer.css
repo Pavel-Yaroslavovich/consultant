@@ -1,0 +1,9 @@
+.services__fon-footer {
+  background-image: url('../../../images/services/arrow.svg');
+  background-repeat: no-repeat;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  left: 0;
+}

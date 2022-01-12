@@ -1,0 +1,10 @@
+.free-consultation__fon-top {
+  position: absolute;
+  top: 412px;
+  left: 380px;
+  width: 155px;
+  height: 66px;
+  z-index: -1;
+
+  background: #1a73e8;
+}

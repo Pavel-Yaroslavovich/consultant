@@ -1,0 +1,10 @@
+.services__digital {
+  display: flex;
+  flex-direction: column;
+  max-width: 370px;
+  margin-right: 30px;
+}
+
+.services__digital:nth-last-child(1) {
+  margin-right: 0;
+}

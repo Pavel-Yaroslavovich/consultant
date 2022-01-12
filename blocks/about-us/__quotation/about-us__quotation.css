@@ -1,0 +1,8 @@
+.about-us__quotation {
+  background-image: url('../../../images/quotation.svg');
+  position: absolute;
+  top: 40px;
+  left: 223px;
+  width: 53px;
+  height: 85px;
+}

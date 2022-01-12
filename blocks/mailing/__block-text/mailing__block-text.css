@@ -1,0 +1,6 @@
+.mailing__block-text {
+  display: flex;
+  flex-direction: column;
+  /* margin-right: 100px; */
+  width: 100%;
+}

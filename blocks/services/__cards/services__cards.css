@@ -1,0 +1,4 @@
+.services__cards {
+  display: flex;
+  flex-direction: row;
+}

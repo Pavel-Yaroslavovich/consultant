@@ -1,0 +1,8 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1900px;
+  background: #007ef2;
+}

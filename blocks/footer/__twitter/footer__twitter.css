@@ -1,0 +1,11 @@
+.footer__twitter {
+  background: url("../../../images/social_icons/twitter.svg");
+  background-repeat: no-repeat;
+  margin-right: 15px;
+  width: 44px;
+  height: 44px;
+}
+
+.footer__twitter:hover {
+  opacity: 0.5;
+}

@@ -1,0 +1,18 @@
+.choice__list-text {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  opacity: 0.9;
+  margin-bottom: 20px;
+
+  color: #14142B;
+}
+
+.choice__list-text::before {
+  content: url('../../../images/checkbox.svg');
+  margin-right: 20px;
+}
+
+.choice__list-text:nth-last-child(1) {
+  margin-bottom: 0;
+}

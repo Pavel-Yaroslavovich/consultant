@@ -1,0 +1,12 @@
+.header__nav-link {
+  font-weight: 500;
+  margin-right: 30px;
+}
+.header__nav-link:nth-last-child(1){
+  margin-right: 0;
+}
+
+.header__nav-link:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}

@@ -1,0 +1,18 @@
+.choice__read-more {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  padding: 15px 40px;
+  border-radius: 5px;
+  width: 188px;
+  text-align: center;
+  box-sizing: border-box;
+
+  background: #1a73e8;
+  color: #ffffff;
+}
+
+.choice__read-more:hover {
+  opacity: 0.5;
+}

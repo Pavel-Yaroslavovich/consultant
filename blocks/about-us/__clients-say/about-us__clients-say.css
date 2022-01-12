@@ -1,0 +1,10 @@
+.about-us__clients-say {
+  background-image: url('../../../images/about-us/clients_day_us.png');
+  position: absolute;
+  top: 121px;
+  left: 445px;
+  right: 0;
+  z-index: 1;
+  width: 216px;
+  height: 93px;
+}

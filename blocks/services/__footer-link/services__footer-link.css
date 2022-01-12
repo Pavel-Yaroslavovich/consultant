@@ -1,0 +1,15 @@
+.services__footer-link {
+  position: absolute;
+  left: 42%;
+  right: 50%;
+  bottom: -25%;
+  height: 52px;
+  width: 52px;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.services__footer-link:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}

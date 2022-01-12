@@ -1,0 +1,8 @@
+.footer__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 1170px;
+}

@@ -1,0 +1,8 @@
+.consultant {
+  position: relative;
+  background: #1A73E8;
+  box-shadow: 0 0 0 1920px rgba(0, 0, 0, .33) inset;
+  background: radial-gradient(52.98% 79.47% at 39.78% 53.83%, #5761D7 0%, #525BCE 3.11%, #3E41A6 17.63%, #2D2B85 32.63%, #201A6C 48.03%, #160E5A 63.97%, #11074F 80.79%, #0F054C 100%);
+  max-width: 1900px;
+  width: 100%;
+}

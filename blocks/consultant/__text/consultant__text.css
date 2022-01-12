@@ -1,0 +1,9 @@
+.consultant__text {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 296px;
+  left: 375px;
+  max-width: 621px;
+  z-index: 2;
+}

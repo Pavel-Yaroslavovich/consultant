@@ -1,0 +1,13 @@
+.mailing__text {
+  font-family: "Poppins", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 0;
+  margin-left: 113px;
+  margin-bottom: 40px;
+  font-size: 20px;
+  line-height: 30px;
+  opacity: 0.6;
+
+  color: #ffffff;
+}

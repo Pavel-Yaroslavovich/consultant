@@ -1,0 +1,12 @@
+.services__digital-footer {
+  position: relative;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0;
+  padding: 28px 90px 55px;
+  border-radius: 0px 0px 10px 10px;
+
+  color: #FFFFFF;
+  background:rgba(26, 115, 232, 1);
+}

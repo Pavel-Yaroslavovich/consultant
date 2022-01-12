@@ -1,0 +1,10 @@
+.subtitle {
+  font-size: 20px;
+  line-height: 30px;
+  opacity: 0.6;
+  max-width: 703px;
+  text-align: center;
+  margin: 0 0 45px;
+
+  color: #14142B;
+}

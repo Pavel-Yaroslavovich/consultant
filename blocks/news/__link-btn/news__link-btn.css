@@ -1,0 +1,19 @@
+.news__link-btn {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 8px 20px;
+  border: 1px solid #007ef2;
+  border-radius: 5px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+
+  color: #ffffff;
+  background: #1a73e8;
+}
+
+.news__link-btn:hover {
+  opacity: 0.5;
+}

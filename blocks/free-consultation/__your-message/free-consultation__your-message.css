@@ -1,0 +1,20 @@
+.free-consultation__your-message {
+  box-sizing: border-box;
+  padding: 20px 10px 0px 20px;
+  margin-bottom: 30px;
+  width: 510px;
+  resize: none;
+  border: none;
+  border-radius: 10px;
+  background: rgba(229, 236, 253, 1);
+}
+
+.free-consultation__your-message::placeholder {
+  font-size: 16px;
+  opacity: 0.6;
+  color: #14142b;
+}
+
+.free-consultation__your-message:focus {
+  box-shadow: 0 0 10px #092feb;
+}

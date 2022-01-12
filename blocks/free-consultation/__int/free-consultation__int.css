@@ -1,0 +1,20 @@
+.free-consultation__int {
+  box-sizing: border-box;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  width: 510px;
+  height: 60px;
+  border: none;
+  border-radius: 10px;
+  background: rgba(229, 236, 253, 1);
+}
+
+.free-consultation__int::placeholder {
+  font-size: 16px;
+  opacity: 0.6;
+  color: #14142b;
+}
+
+.free-consultation__int:focus {
+  box-shadow: 0 0 10px #092feb;
+}

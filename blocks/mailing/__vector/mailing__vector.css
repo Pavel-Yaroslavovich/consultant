@@ -1,0 +1,9 @@
+.mailing__vector {
+  position: absolute;
+  background: url("../../../images/mailing/vector_city.png");
+  background-position: 0px 55px;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}

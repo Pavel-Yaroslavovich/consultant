@@ -1,0 +1,10 @@
+.services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  width: 100%;
+  padding-bottom: 146px;
+
+  background: #E5E5E5;
+}

@@ -1,0 +1,9 @@
+.about-us__our-clients {
+  display: flex;
+  flex-direction: column;
+  width: 435px;
+  height: 720px;
+  /* border: 2px solid green; */
+  margin-top: 14px;
+  margin-bottom: 120px;
+}

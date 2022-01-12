@@ -1,0 +1,16 @@
+.consultant__contact {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 192px;
+  padding: 14px 40px;
+  text-decoration: none;
+  border-radius: 5px;
+  border: 2px solid #FFFFFF;
+
+  color: #FFFFFF;
+}
+
+.consultant__contact:hover {
+  opacity: 0.5;
+}

@@ -1,0 +1,8 @@
+.choice__text {
+  display: flex;
+  flex-direction: column;
+  padding-top: 55px;
+  margin-left: 375px;
+  margin-right: 82px;
+  width: 548px;
+}

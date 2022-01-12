@@ -1,0 +1,17 @@
+.consultant__company {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 192px;
+  padding: 15px 24px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-right: 30px;
+
+  color: #FFFFFF;
+  background: #3377FF;
+}
+
+.consultant__company:hover {
+  opacity: 0.5;
+}

@@ -1,0 +1,11 @@
+.statistics__number-text {
+  display: flex;
+  flex-direction: column;
+  max-width: 157px;
+  text-align: center;
+  margin-right: 208px;
+}
+
+.statistics__number-text:nth-last-child(1){
+  margin-right: 0;
+}
